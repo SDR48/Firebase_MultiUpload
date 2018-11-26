@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase_MultiUpload</string>
+    <string name="filename_type">Filename.type</string>
+</resources>
